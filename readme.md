@@ -1,5 +1,7 @@
 # Imersão Full Cycle - Plataforma de Investimentos - Home Broker
 
+## Aulas gratuitas - fevereiro/2025
+
 * Aula 1 - Docker do zero em uma hora
 
     https://youtu.be/zOBpWwdKwd0
@@ -12,4 +14,28 @@
 
     https://youtu.be/rEIStid4smE 
 
-fevereiro/2025
+* Aula 4 - Golang em 1h: Saia com uma aplicação completa
+
+    https://www.youtube.com/live/I37TXTpIeos
+
+* Aula 5 - Next.js: Criando aplicações financeiras com Websocket
+  
+    https://www.youtube.com/live/rA5yVak_G1g
+
+## Lives
+
+* Next.js: Criando aplicações financeiras com Websocket
+
+    https://www.youtube.com/live/v17uvx-7XOM
+
+* Desenvolvendo Sistemas Complexos: Liderança Além do Código na Era da IA
+
+    https://www.youtube.com/live/9oIfQ7n6p9w
+
+* Live Coding: arquitetura e desenvolvimento na prática
+
+    https://www.youtube.com/live/3n3ziAzr5aM
+
+* Desenvolvendo com IA na Prática + Abertura de matriculas
+
+    https://www.youtube.com/live/6RC-NY-YfT0
