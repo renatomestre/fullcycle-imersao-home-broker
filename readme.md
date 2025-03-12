@@ -22,6 +22,12 @@
   
     https://www.youtube.com/live/rA5yVak_G1g
 
+## Ambiente
+
+* Guia/Tutorial rápido do WSL2 + Docker
+
+    https://github.com/codeedu/wsl2-docker-quickstart#docker-engine-docker-nativo-diretamente-instalado-no-wsl2
+
 ## Lives
 
 * Next.js: Criando aplicações financeiras com Websocket
