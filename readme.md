@@ -39,3 +39,11 @@
 * Desenvolvendo com IA na Prática + Abertura de matriculas
 
     https://www.youtube.com/live/6RC-NY-YfT0
+
+## Repositórios de alunos
+
+* https://github.com/flvSantos15/home-broker
+* https://github.com/Jean-Pierre-97s/homeBroker
+* https://github.com/alextavella/go-home-broker
+* https://github.com/tony-bentus/home_broker_api
+* https://github.com/paulosanttana/nestjs-api
